@@ -7,7 +7,7 @@ Built with data visualization tools and Python libraries to support better decis
 ## Introduction
 Risk factors: The determinants associated with an increased risk of a disease and result in deaths of humans. Nowadays, the number of deaths may increase or decrease depending on the risk factors present in a country. It is crucial to understand the risk factors associated with premature death. This is because mortality can be reduced if the risk factors that a population is exposed to are identified and addressed. Furthermore, increasing public awareness of these risk factors is essential to help people maintain optimal health and prevent disease.
 
-Categories of risk factors:
+Category of risk factors:
 - Environmental
 - Metabolic
 - Behavioral
